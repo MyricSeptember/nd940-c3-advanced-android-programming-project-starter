@@ -9,7 +9,10 @@
     <string name="notification_button">See changes</string>
 
     <string name="button_name">Click me</string>
+    <string name="button_download">Download</string>
     <string name="button_loading">We are loading </string>
+    <string name="button_downloading">Downloading</string>
+
     <string name="title_activity_detail">DetailActivity</string>
     <string name="glide_radio_label">Glide</string>
     <string name="udacity_loading_app_radio_label">Udacity Loading App</string>
